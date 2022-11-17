@@ -10,3 +10,4 @@ jobs:
         script:
             env | grep -E "TRAVIS|TRAVIS_BUILD_ID|TRAVIS_BRANCH|TRAVIS_COMMIT" > /tmp/env
             docker run --rm --env-file /tmp/env --mount type=bind,source=$PWD,target=/scan registry.fortidevsec.forticloud.com/fdevsec_sast:latest
+            

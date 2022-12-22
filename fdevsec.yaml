@@ -6,8 +6,8 @@ id:
 
 scanners:
     - sast
-languages:
-    - python
+#languages:
+#    - python
 
 fail_pipeline:
   risk_rating: 6

@@ -4,7 +4,10 @@ id:
   org: 6ed94561-5abb-4215-9c16-65445ab1af66
   app: 82c34ee6-b127-4c6c-a5be-1614f7580bad
 
-
+scanners:
+    - sast
+languages:
+    - java
 
 fail_pipeline:
-  risk_rating: 6
+  risk_rating: 5

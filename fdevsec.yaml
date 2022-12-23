@@ -5,8 +5,8 @@ id:
   app: 8b4b60ac-67a0-429a-9a5c-2c6fc888765e
 
 
-scanners:
-    - sast
+#scanners:
+#    - sast
 #languages:
 #    - python
 

@@ -2,7 +2,8 @@ version: v1
 
 id:
   org: 6ed94561-5abb-4215-9c16-65445ab1af66
-  app: 82c34ee6-b127-4c6c-a5be-1614f7580bad
+  app: 8b4b60ac-67a0-429a-9a5c-2c6fc888765e
+
 
 scanners:
     - sast
@@ -10,4 +11,4 @@ scanners:
 #    - python
 
 fail_pipeline:
-  risk_rating: 6
+  risk_rating: 7

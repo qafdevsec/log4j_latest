@@ -4,14 +4,8 @@ id:
   org: d88876c4-50a7-4f06-b095-793630d9676e
   app: f1b79da8-d4b3-400a-a10c-71d071a21c1a
 
-
-#scanners:
-#    - sast
-#languages:
-#    - python
-
 fail_pipeline:
   risk_rating: 2
   
 onprem:
-  sec_ops_server: https://fortidevsec.corp.fortinet.com
+  sec_ops_server: https://fortidevsecvm.corp.fortinet.com

@@ -1,12 +1,13 @@
 version: v1
 
 id:
-  org: a5a689b2-46a9-4f09-a29a-ea7791de945f
-  app: d7788310-e93b-4d63-9127-480ea7ab33b8
+  org: d88876c4-50a7-4f06-b095-793630d9676e
+  app: f1b79da8-d4b3-400a-a10c-71d071a21c1a
+
 
 
 fail_pipeline:
   risk_rating: 2
   
-#onprem:
-#  sec_ops_server: https://fortidevsecvm.corp.fortinet.com
+on_prem:
+  sec_ops_server: https://fortidevsecvm.corp.fortinet.com

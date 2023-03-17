@@ -2,7 +2,8 @@ version: v1
 
 id:
   org: b50b51ae-fb73-4b88-a85b-f18c47e16ee1
-  app: d8e84af3-e87f-41fd-bbbf-fdcc1ee5c177
+  app: 9e7d337b-45f5-4e12-99c5-c30d2cb87afb
+
 
 fail_pipeline:
   risk_rating: 7
